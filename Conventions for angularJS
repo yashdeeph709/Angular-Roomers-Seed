@@ -14,3 +14,12 @@ define controllers in this way so that we can minimize our code in last.
 8) go for project level constants for things used multiple times
 9) keep all the code a single component like controller and service.
 10) if you find something share with us also and review this also.
+11) install nodejs(with default options) from its website and then on cmd npm install -g http-server
+12) Add more and give a pull request to us we will update
+
+
+Instructions for using this seed -----------
+1) just add a route.
+2) create a controller file in js/controllers.
+3) add appropriate trigger for it.
+4) and you are good to go
